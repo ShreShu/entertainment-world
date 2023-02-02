@@ -23,7 +23,7 @@ const Login = () => {
 				<div className='login__button'>
 					<button
 						onClick={() => {
-							login();
+							Login();
 						}}
 					>
 						Login
